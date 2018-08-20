@@ -4,6 +4,8 @@
 
 > 客户端代理：gost.exe -L=:1080 -F=ss+mws://chacha20:ss123456@XXX.herokuapp.com:80，Chrome安装SwitchyOmega。
 
+[下载](https://github.com/xiaokaixuan/gost-heroku/releases/v2.5)
+
 ### 参考 
 https://github.com/ginuerzh/gost
 
