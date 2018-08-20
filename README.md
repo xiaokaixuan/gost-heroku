@@ -2,7 +2,7 @@
 
 > 服务端部署后，应 open app ，显示 404 page not found，表示部署成功。
 
-> 客户端代理：gost.exe -L=:1080 -F=ss+mws://chacha20:ss123456@XXX.herokuapp.com:80，Chrome安装SwitchyOmega。
+> 客户端本地代理：gost.exe -L=:1080 -F=ss+mws://chacha20:ss123456@XXX.herokuapp.com:80，Chrome安装SwitchyOmega。
 
 [下载](https://github.com/xiaokaixuan/gost-heroku/releases/v2.5)
 
