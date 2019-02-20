@@ -2,7 +2,7 @@ FROM alpine:3.6
 
 ENV VER=2.7.2
 ENV METHOD=chacha20
-ENV PASSWORD=xausky
+ENV PASSWORD=ss123456
 ENV PORT=8080
 
 RUN apk add --no-cache curl \
