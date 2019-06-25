@@ -1,0 +1,18 @@
+{
+  "name": "Gost",
+  "description": "Deploy Gost to Heroku.",
+  "keywords": ["Gost"],
+  "env": {
+    "METHOD": {
+       "description": "Encryption method, null by default(table), the following methods are supported: aes-128-cfb, aes-192-cfb, aes-256-cfb, bf-cfb, cast5-cfb, des-cfb, rc4-md5, rc4-md5-6, chacha20, salsa20, rc4, table.",
+       "value": "chacha20"
+     },
+     "PASSWORD": {
+       "description": "A password used to encrypt transfer.",
+       "value": "ss123456"
+     }
+  },
+  "stack": "container",
+  "website": "https://github.com/xiaokaixuan/gost-heroku",
+  "repository": "https://github.com/xiaokaixuan/gost-heroku"
+ }
