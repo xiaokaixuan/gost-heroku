@@ -9,7 +9,7 @@
 
 > Chrome安装[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/releases)插件，配置[GFWList](https://github.com/gfwlist/gfwlist)。
 
-[下载](https://github.com/xiaokaixuan/gost-heroku/releases/tag/v2.5)
+[下载](https://github.com/xiaokaixuan/gost-heroku/releases/tag/v2.7.2)
 
 ### 参考 
 https://github.com/ginuerzh/gost
