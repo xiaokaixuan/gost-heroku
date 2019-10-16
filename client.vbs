@@ -1,5 +1,5 @@
 Const Title = "Gost", errorLog = "client.log"
-Const CommandLine = "gost.exe -L=:1080 -F=ss+mws://chacha20:ss123456@xxxx.herokuapp.com:80"
+Const CommandLine = "gost.exe -L=:1080 -F=ss+mwss://chacha20:ss123456@appname.herokuapp.com:443"
 
 Class Application
 	Private WS
