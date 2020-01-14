@@ -11,7 +11,7 @@
 
 > 4. Android安装[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android)和[ShadowsocksGostPlugin](https://github.com/xausky/ShadowsocksGostPlugin)。
 
-[下载](https://github.com/xiaokaixuan/gost-heroku/releases/tag/v2.8.2)
+[下载](https://github.com/xiaokaixuan/gost-heroku/releases/tag/v2.9.0)
 
 ### 附加
 
