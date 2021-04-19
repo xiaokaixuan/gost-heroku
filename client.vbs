@@ -54,9 +54,9 @@ Class Application
 	
 	Private Function Confirm(isRunning)
 	If isRunning Then
-		Confirm = MsgBox(Title & " is running, do you want to stop it ?", vbYesNo or vbExclamation, "Question")
+		Confirm = MsgBox(Title & " is running, do you want to stop it ?", vbSystemModal or vbYesNo or vbExclamation, "Question")
 	Else
-		Confirm = MsgBox(Title & " is not running, do you want to start it ?", vbYesNo or vbQuestion, "Question")
+		Confirm = MsgBox(Title & " is not running, do you want to start it ?", vbSystemModal or vbYesNo or vbQuestion, "Question")
 	End If
 	End Function
 End Class
