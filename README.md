@@ -1,4 +1,4 @@
-## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/escalateactivate/gostku)
+## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/escalateactivate/gostku/tree/patch-2)
 
 > 1. 服务端部署后，应`open app` ，显示`404 page not found`，表示部署成功。
 
