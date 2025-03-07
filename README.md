@@ -11,6 +11,12 @@
 
 > 4. Android安装[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android)和[ShadowsocksGostPlugin](https://github.com/xausky/ShadowsocksGostPlugin)。
 
+> 5. 部署到VPS时，映射`${TLS_PORT}`和`docker cp`拷入证书即可开启TLS。
+> ```bash
+> /gost/cert.pem
+> /gost/key.pem
+> ```
+
 [下载](https://github.com/xiaokaixuan/gost-heroku/releases/tag/v2.11.1)
 
 ### 附加
